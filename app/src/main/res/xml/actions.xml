@@ -1,0 +1,7 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<actions>
+    <action intentName="com.example.jetpackcameraxapp.OPEN_CAMERA">
+        <fulfillment urlTemplate="app://openCamera" />
+        <parameter name="extra_parameter" />
+    </action>
+</actions>
