@@ -1,7 +1,7 @@
-Camera App
-📸 Capture and share moments with ease using this intuitive camera app built for seamless photo-taking and email sharing.
+#Camera App
+##📸 Capture and share moments with ease using this intuitive camera app built for seamless photo-taking and email sharing.
 
-Features:
+##Features:
 Instant Capture: Capture high-quality photos effortlessly with the tap of a button.
 Email Sharing: Send photos directly to your Gmail inbox for quick and convenient sharing with friends, family, or colleagues.
 Secure Transmission: Enjoy peace of mind knowing that your photos are securely transmitted to your Gmail account using encrypted protocols.
